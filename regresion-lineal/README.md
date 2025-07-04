@@ -2,7 +2,7 @@
 
 Proyectos prácticos de introducción al aprendizaje automático con Python.
 
-## 📘 Proyecto 1: Regresión lineal univariada
+### Proyecto 1: Regresión lineal univariada
 
 Este notebook implementa una regresión lineal simple utilizando `scikit-learn`, con un dataset de experiencia laboral (`X`) y salario (`Y`).
 
