@@ -13,13 +13,11 @@ Este notebook implementa una regresión lineal simple utilizando `scikit-learn`,
 - Evaluación del modelo (MSE, R²)
 - Predicción y graficación de la línea de regresión
 
-📎 Dataset: [Salary_Data.csv](https://raw.githubusercontent.com/anujahlawat/salary-hike/main/Salary_Data.csv)
-
-▶️ [Abrir en Google Colab](https://colab.research.google.com/github/GMZepeda/machine-learning-practice/blob/main/Regresion_univariada.ipynb)
+ Dataset: [Salary_Data.csv](https://raw.githubusercontent.com/anujahlawat/salary-hike/main/Salary_Data.csv)
 
 ---
 
-### 🛠 Requisitos
+### Requisitos
 
 - Python 3.x
 - pandas  
