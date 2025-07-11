@@ -5,13 +5,15 @@ Estos notebooks forman parte de mi proceso de aprendizaje. A medida que avance, 
 
 ## 📂 Notebooks disponibles
 
-1. [`regresion_univariada`](./regresion-lineal/regresion_univariada.ipynb)  
+1. [`regresion_univariada`](./regresion-lineal/regresion_lineal_salario_experiencia.ipynb)  
    Regresión lineal simple con `scikit-learn` y dataset de salarios.
 
- 2. [`regresion_lineal_poblacion_ganancia`](./regresion_lineal_poblacion_ganancia.ipynb)  
+   
+
+ 3. [`regresion_lineal_poblacion_ganancia`](./regresion_lineal_poblacion_ganancia.ipynb)  
    Regresión lineal aplicada a datos de población y ganancia, con análisis de residuos y evaluación del modelo.
   
-3. [`practica1`](./practica1.ipynb)  
+4. [`practica1`](./practica1.ipynb)  
    Predicción de compartidos según cantidad de palabras en un artículo.
 
 ---
