@@ -11,7 +11,7 @@ Estos notebooks forman parte de mi proceso de aprendizaje. A medida que avance, 
    
 
  3. [`regresion_lineal_poblacion_ganancia`](./regresion_lineal_poblacion_ganancia.ipynb)  
-   Regresión lineal aplicada a datos de población y ganancia, con análisis de residuos y evaluación del modelo.
+   Regresión lineal aplicada a datos de población y ganancia, con análisis de residuos.
   
 4. [`practica1`](./practica1.ipynb)  
    Predicción de compartidos según cantidad de palabras en un artículo.
