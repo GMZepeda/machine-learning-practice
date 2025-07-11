@@ -1,32 +1,19 @@
 # machine-learning-practice
 
-Proyectos prácticos de introducción al aprendizaje automático con Python.
+Proyectos prácticos de introducción al aprendizaje automático con Python.  
+Estos notebooks forman parte de mi proceso de aprendizaje. A medida que avance, iré subiendo más ejemplos.
 
-###  Regresión lineal univariada
+## 📂 Notebooks disponibles
 
-Este notebook [`regresion-lineal/regresion_univariada.ipynb`](regresion-lineal/regresion_univariada.ipynb) implementa una regresión lineal simple utilizando `scikit-learn`, con un dataset de experiencia laboral (`X`) y salario (`Y`).
+1. [`regresion_univariada`](./regresion-lineal/regresion_univariada.ipynb)  
+   Regresión lineal simple con `scikit-learn` y dataset de salarios.
 
-###  Contenido:
-- Carga de datos desde CSV
-- Visualización exploratoria con `matplotlib` y `seaborn`
-- Entrenamiento del modelo de regresión lineal
-- Evaluación del modelo (MSE, R²)
-- Predicción y graficación de la línea de regresión
-
- **Dataset**: [Salary_Data.csv](https://raw.githubusercontent.com/anujahlawat/salary-hike/main/Salary_Data.csv)
-
+ 2. [`regresion_lineal_poblacion_ganancia`](./regresion_lineal_poblacion_ganancia.ipynb)  
+   Regresión lineal aplicada a datos de población y ganancia, con análisis de residuos y evaluación del modelo.
+  
+3. [`practica1`](./practica1.ipynb)  
+   Predicción de compartidos según cantidad de palabras en un artículo.
 
 ---
 
-### Requisitos
-
-- Python 3.x
-- pandas  
-- numpy  
-- matplotlib  
-- seaborn  
-- scikit-learn
-
----
-
-Más notebooks próximamente 📊
+>  *Todos los proyectos fueron realizados como parte de ejercicios de cursos o prácticas personales.*
