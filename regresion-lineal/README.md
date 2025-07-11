@@ -19,4 +19,4 @@ Estos notebooks forman parte de mi proceso de aprendizaje. A medida que avance, 
 
 ---
 
->  *Todos los proyectos fueron realizados como parte de ejercicios de cursos o prácticas personales.*
+>  *Todos los proyectos fueron realizados como parte de ejercicios de cursos, libros y prácticas personales.*
