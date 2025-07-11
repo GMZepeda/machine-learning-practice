@@ -5,7 +5,7 @@ Estos notebooks forman parte de mi proceso de aprendizaje. A medida que avance, 
 
 ## 📂 Notebooks disponibles
 
-1. [`regresion_univariada`](./regresion-lineal/regresion_lineal_salario_experiencia.ipynb)  
+1. [`regresion_lineal_salario_experiencia`](./regresion_lineal_salario_experiencia.ipynb)  
    Regresión lineal simple con `scikit-learn` y dataset de salarios.
 
    
