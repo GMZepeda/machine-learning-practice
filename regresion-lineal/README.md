@@ -10,11 +10,12 @@ Estos notebooks forman parte de mi proceso de aprendizaje. A medida que avance, 
 
    
 
- 3. [`regresion_lineal_poblacion_ganancia`](./regresion_lineal_poblacion_ganancia.ipynb)  
+ 2. [`regresion_lineal_poblacion_ganancia`](./regresion_lineal_poblacion_ganancia.ipynb)  
    Regresión lineal aplicada a datos de población y ganancia, con análisis de residuos.
   
-4. [`practica1`](./practica1.ipynb)  
-   Predicción de compartidos según cantidad de palabras en un artículo.
+3. [`regresion_lineal_articulos_ml`](./regresion_lineal_articulos_ml.ipynb)  
+   Predicción del número de compartidos en redes sociales de artículos de Machine Learning usando regresión lineal.
+
 
 ---
 
