@@ -2,18 +2,19 @@
 
 Proyectos prácticos de introducción al aprendizaje automático con Python.
 
-### Regresión lineal univariada
+###  Regresión lineal univariada
 
-Este notebook [regresion-lineal/regresion_univariada.ipynb] implementa una regresión lineal simple utilizando `scikit-learn`, con un dataset de experiencia laboral (`X`) y salario (`Y`).
+Este notebook [`regresion-lineal/regresion_univariada.ipynb`](regresion-lineal/regresion_univariada.ipynb) implementa una regresión lineal simple utilizando `scikit-learn`, con un dataset de experiencia laboral (`X`) y salario (`Y`).
 
-### Contenido:
+###  Contenido:
 - Carga de datos desde CSV
 - Visualización exploratoria con `matplotlib` y `seaborn`
 - Entrenamiento del modelo de regresión lineal
 - Evaluación del modelo (MSE, R²)
 - Predicción y graficación de la línea de regresión
 
- Dataset: [Salary_Data.csv](https://raw.githubusercontent.com/anujahlawat/salary-hike/main/Salary_Data.csv)
+ **Dataset**: [Salary_Data.csv](https://raw.githubusercontent.com/anujahlawat/salary-hike/main/Salary_Data.csv)
+
 
 ---
 
