@@ -1,4 +1,4 @@
-# machine-learning-practice
+# Machine-Learning-Practice
 
 Proyectos prácticos de introducción al aprendizaje automático con Python.  
 Estos notebooks forman parte de mi proceso de aprendizaje. A medida que avance, iré subiendo más ejemplos.
