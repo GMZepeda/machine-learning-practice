@@ -21,7 +21,7 @@ Estos notebooks forman parte de mi proceso de aprendizaje. A medida que avance, 
    Se analiza la relación entre variables como el peso del auto y el consumo de combustible,  
    repasando conceptos de correlación y supuestos del modelo lineal.
 
-5. [`housing_regression_multiple`](./regresion-lineal/housing_regression_multiple.ipynb)  
+5. [housing_regression_multiple](regresion-lineal/housing_regression_multiple.ipynb)  
    Regresión lineal **múltiple** aplicada al dataset de viviendas de California (`housing.csv`).  
    Se emplean varias variables predictoras y se analizan correlaciones con `seaborn`.
 
